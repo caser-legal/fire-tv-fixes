@@ -1,0 +1,6 @@
+home-proxy/build/
+.DS_Store
+signing/
+state/
+*.apk
+*.idsig

@@ -1,0 +1,27 @@
+# Example disable-user list for a stock Fire TV Edition.
+# Not a device dump. Edit it before you use it.
+com.amazon.bueller.music
+com.amazon.bueller.photos
+com.amazon.cloud9
+com.amazon.ftv.screensaver
+com.amazon.gamehub
+com.amazon.hedwig
+com.amazon.hybridadidservice
+com.amazon.minitv.android.app
+com.amazon.shoptv.client
+com.amazon.shoptv.firetv.client
+com.amazon.sneakpeek
+com.amazon.spiderpork
+com.amazon.storm.lightning.tutorial
+com.amazon.tahoe
+com.amazon.tmm.tutorial
+com.amazon.tv.acr
+com.amazon.tv.democontent.provider
+com.amazon.tv.fw.metrics
+com.amazon.tv.legal.notices
+com.amazon.tv.localgallery
+com.amazon.tv.releasenotes
+com.amazon.tv.website_launcher
+com.amazon.wirelessmetrics.service
+com.android.nfc
+com.apple.airplay.amazon.airplay
